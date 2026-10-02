@@ -1,0 +1,9 @@
+VerifyInstructions.txt
+
+لإضافة موقعك إلى Google Search Console:
+1) افتح https://search.google.com/search-console
+2) اختر 'إضافة ملكية' وأدخل https://trmim-anwr.vercel.app/
+3) اختَر طريقة 'ملف HTML' أو 'TXT record':
+   - HTML: سيتم تزويدك بملف html صغير (مثال: googleabcd1234.html). قم بتحميل الملف في جذر الموقع ثم اضغط Verify.
+   - TXT: أضف السجل TXT إلى إعدادات DNS لنطاقك (قد يستغرق عدة دقائق إلى ساعات).
+4) بعد التحقق: أضف sitemap: https://trmim-anwr.vercel.app/sitemap.xml في صفحة Sitemaps.
